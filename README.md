@@ -1,4 +1,4 @@
-# BlueSpace Career Acceleration Assistant
+# Bluespace Career Acceleration Assistant
 
 ### AI-assisted career positioning and job-search workflow
 
